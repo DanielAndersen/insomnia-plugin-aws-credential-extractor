@@ -1,0 +1,15 @@
+{
+    "name": "insomnia-plugin-aws-credential-extractor",
+    "version": "1.0.0",
+    "author": "Daniel Mørch Andersen <dmaapps@gmail.com>",
+    "description": "Insomnia plugin - AWS credential extractor",
+    "license": "MIT",
+    "main": "index.js",
+    "insomnia": {
+        "name": "awscredentials"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/DanielAndersen/insomnia-plugin-aws-credential-extractor.git"
+    }
+}
